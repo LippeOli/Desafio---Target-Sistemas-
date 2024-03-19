@@ -1,0 +1,22 @@
+No trecho de código fornecido, a variável SOMA está sendo usada para acumular a soma dos números de 1 até INDICE. O loop while está adicionando os valores de 1 até INDICE à variável SOMA.
+
+Vamos analisar o loop:
+
+- No início, K é inicializado como 0.
+- A cada iteração do loop, K é incrementado em 1 (K = K + 1).
+- SOMA é atualizado para SOMA + K.
+
+Portanto, o valor final da variável SOMA será a soma dos números de 1 a 13, ou seja:
+
+SOMA = 1 + 2 + 3 + ... + 13
+
+Desse modo, ao final do processamento, deverá ser somado todos o SOMA com todos os K do loop. Tornando assim o valor da variavel SOMA uma progressão aritmética: 
+SOMA = (n * (n + 1)) / 2
+
+Substituindo na fórmula:
+
+SOMA = (13 * (13 + 1)) / 2
+= (13 * 14) / 2
+= 91
+
+Resposta:  valor da variável SOMA será 91.

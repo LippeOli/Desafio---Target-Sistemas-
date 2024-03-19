@@ -1,0 +1,23 @@
+a) 1, 3, 5, 7, ___
+
+Resposta: 9. A lógica soma-se dois a cada número.
+
+b) 2, 4, 8, 16, 32, 64, ____
+
+Resposta: 128. A lógica a cada número aumenta a potência de 2. No setimo número: 2^7.
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+
+Resposta: 49. A lógica da sequência consiste nos quadrados dos números naturais. Então, o próximo número será o quadrado de 7, que é 49.
+
+d) 4, 16, 36, 64, ____
+
+Resposta: 100. A lógica da sequência parece ser uma progressão dos quadrados dos números pares. Portanto, o próximo número seria o quadrado de 8, que é 64.
+
+e) 1, 1, 2, 3, 5, 8, ____
+
+Resposta: 13. A lógica da sequência é a sequência de Fibonacci, onde cada número é a soma dos dois anteriores. Portanto, o próximo número seria 13 (8 + 5).
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+
+Resposta: 200. A lógica da sequência é envolve os números naturais que começam com a letra D. Dois, Dez, Doze,... Duzentos.

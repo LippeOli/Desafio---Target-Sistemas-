@@ -1,0 +1,21 @@
+Para descobrir qual interruptor controla a lâmpada, deve-se utilizar a lógica e uma série de passos 
+
+Primeira interação:
+
+- Ligue um interruptor e deixe-o ligado por alguns minutos.
+- Desligue o interruptor.
+
+Neste momento, a lâmpada que ficou acesa após a primeira interação está conectada ao interruptor que você ligou. As outras duas lâmpadas estão apagadas.
+
+Segunda interação:
+
+- Ligue outro interruptor (que ainda não esteja ligado) e entre na sala das lâmpadas.
+- Observe as lâmpadas.
+
+Agora, tem as seguintes situações finais:
+
+1.Se a lâmpada estiver acesa, o interruptor que você acabou de ligar controla essa lâmpada.
+2.Se a lâmpada estiver apagada, o interruptor que você não mexeu em nenhuma das duas idas controla essa lâmpada.
+3.A lâmpada que permanece apagada é controlada pelo interruptor que você ligou inicialmente e desligou antes de entrar na sala.
+
+Assim, com apenas duas interação é possível descobrir qual interruptor controla cada lâmpada.
